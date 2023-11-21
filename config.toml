@@ -4,3 +4,4 @@ title = "hugo site"
 
 theme = "mini"
 
+publishDir = "docs"
