@@ -5,5 +5,6 @@ draft: false
 ---
 
 `hugo`を使った記事です。
+Kuriと申します。
 
 今後CTFのwriteupを中心としたサイトをにしていきたいと思います。
