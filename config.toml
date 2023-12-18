@@ -2,6 +2,13 @@ baseURL = "https://kuri17.github.io/blog-hugo/"
 languageCode = "ja"
 title = "hugo site"
 
-theme = "mini"
+theme = "fish"
 
 publishDir = "docs"
+
+[[imports]]
+path = "github.com/nunocoracao/blowfish/v2"
+
+
+
+
